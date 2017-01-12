@@ -1,0 +1,7 @@
+#carpeta target
+target/
+#carpeta settings
+.settings/
+*.class
+*.classPath
+*.project
